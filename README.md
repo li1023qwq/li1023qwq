@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,5,8,11&height=180&section=header&text=li1023qwq&fontSize=58&fontColor=f0f0f0&desc=Full%20Stack%20Developer%20%7C%20Open%20Source%20Enthusiast&descSize=18&descAlignY=40&animation=twinkling&fontAlignY=30" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,5,8,11&height=180&section=header&text=li1023qwq&fontSize=58&fontColor=f0f0f0&desc=全栈开发工程师%20%7C%20开源爱好者&descSize=18&descAlignY=40&animation=twinkling&fontAlignY=30" width="100%"/>
 </div>
 
 <br/>
 
 <div align="center">
   <a href="https://github.com/li1023qwq">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Hey%2C+I'm+li1023qwq+%F0%9F%91%8B;Welcome+to+my+GitHub!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=嘿%2C+我是+li1023qwq+%F0%9F%91%8B;欢迎来到我的GitHub!" alt="Typing SVG" />
   </a>
 </div>
 
@@ -20,18 +20,18 @@
   <tr>
     <td valign="top" width="60%">
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="30" /> About Me
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="30" /> 关于我
 
-I'm a passionate developer who loves building things with code. I enjoy tackling complex problems and turning ideas into reality. When I'm not coding, you can find me exploring new technologies or contributing to open source.
+我是一名热爱编程的开发者，喜欢用代码构建各种有趣的项目。我享受解决复杂问题的过程，将想法变成现实。工作之余，你会看到我在探索新技术或为开源项目贡献代码。
 
-- 🔭 I'm currently working on **personal projects & open source contributions**
-- 🌱 I'm currently learning **Rust, WebAssembly, System Design**
-- 👯 I'm looking to collaborate on **open source projects**
-- 🤔 I'm looking for help with **distributed systems & cloud-native development**
-- 💬 Ask me about **Python, JavaScript, Go, Docker, Linux**
-- 📫 How to reach me: **li1023qwq@users.noreply.github.com**
-- 😄 Pronouns: **He/Him**
-- ⚡ Fun fact: **I once automated my coffee machine with a Python script**
+- 🔭 目前正在做 **个人项目 & 开源贡献**
+- 🌱 正在学习 **Rust、WebAssembly、系统设计**
+- 👯 希望参与 **开源项目** 的协作
+- 🤔 寻求帮助 **分布式系统 & 云原生开发**
+- 💬 可以问我 **Python、JavaScript、Go、Docker、Linux**
+- 📫 联系方式：**li1023qwq@users.noreply.github.com**
+- 😄 代称：**他/Him**
+- ⚡ 趣事：**曾经用 Python 脚本自动化了咖啡机**
 
     </td>
     <td valign="top" width="40%">
@@ -48,11 +48,11 @@ I'm a passionate developer who loves building things with code. I enjoy tackling
 
 <div align="center">
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="28" /> Tech Stack
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="28" /> 技术栈
 
 <br/>
 
-**Languages**
+**编程语言**
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />&nbsp;
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />&nbsp;
@@ -65,7 +65,7 @@ I'm a passionate developer who loves building things with code. I enjoy tackling
 
 <br/>
 
-**Frontend**
+**前端技术**
 
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp;
 <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />&nbsp;
@@ -76,7 +76,7 @@ I'm a passionate developer who loves building things with code. I enjoy tackling
 
 <br/>
 
-**Backend**
+**后端技术**
 
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />&nbsp;
@@ -86,7 +86,7 @@ I'm a passionate developer who loves building things with code. I enjoy tackling
 
 <br/>
 
-**Database**
+**数据库**
 
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp;
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />&nbsp;
@@ -96,7 +96,7 @@ I'm a passionate developer who loves building things with code. I enjoy tackling
 
 <br/>
 
-**DevOps & Cloud**
+**DevOps & 云服务**
 
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />&nbsp;
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />&nbsp;
@@ -107,7 +107,7 @@ I'm a passionate developer who loves building things with code. I enjoy tackling
 
 <br/>
 
-**Tools & IDE**
+**工具 & IDE**
 
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />&nbsp;
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />&nbsp;
@@ -125,7 +125,7 @@ I'm a passionate developer who loves building things with code. I enjoy tackling
 
 <div align="center">
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" width="28" /> GitHub Analytics
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" width="28" /> GitHub 数据统计
 
 <br/>
 
@@ -146,7 +146,7 @@ I'm a passionate developer who loves building things with code. I enjoy tackling
 
 <br/>
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" width="28" /> Trophies
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" width="28" /> 成就徽章
 
 <br/>
 
@@ -154,7 +154,7 @@ I'm a passionate developer who loves building things with code. I enjoy tackling
 
 <br/>
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" width="28" /> Contribution Graph
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" width="28" /> 贡献图
 
 <br/>
 
@@ -162,7 +162,7 @@ I'm a passionate developer who loves building things with code. I enjoy tackling
 
 <br/>
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Bar%20Chart.png" width="28" /> Activity Graph
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Bar%20Chart.png" width="28" /> 活动图
 
 <br/>
 
@@ -178,7 +178,7 @@ I'm a passionate developer who loves building things with code. I enjoy tackling
 
 <div align="center">
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="28" /> Featured Projects
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="28" /> 精选项目
 
 <br/>
 
@@ -186,46 +186,46 @@ I'm a passionate developer who loves building things with code. I enjoy tackling
   <tr>
     <td valign="top" width="50%">
 
-#### 🚀 Project One
-> A brief description of what this project does and the problem it solves.
+#### 🚀 项目一
+> 这个项目的简要介绍，以及它解决的问题。
 
 `Python` `FastAPI` `Docker` `PostgreSQL`
 
-[![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/li1023qwq)
-[![Demo](https://img.shields.io/badge/Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com)
+[![仓库](https://img.shields.io/badge/仓库-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/li1023qwq)
+[![演示](https://img.shields.io/badge/演示-00C853?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com)
 
     </td>
     <td valign="top" width="50%">
 
-#### 🎨 Project Two
-> A brief description of what this project does and the problem it solves.
+#### 🎨 项目二
+> 这个项目的简要介绍，以及它解决的问题。
 
 `TypeScript` `React` `Tailwind` `MongoDB`
 
-[![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/li1023qwq)
-[![Demo](https://img.shields.io/badge/Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com)
+[![仓库](https://img.shields.io/badge/仓库-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/li1023qwq)
+[![演示](https://img.shields.io/badge/演示-00C853?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com)
 
     </td>
   </tr>
   <tr>
     <td valign="top" width="50%">
 
-#### ⚙️ Project Three
-> A brief description of what this project does and the problem it solves.
+#### ⚙️ 项目三
+> 这个项目的简要介绍，以及它解决的问题。
 
 `Go` `gRPC` `Redis` `Kubernetes`
 
-[![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/li1023qwq)
+[![仓库](https://img.shields.io/badge/仓库-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/li1023qwq)
 
     </td>
     <td valign="top" width="50%">
 
-#### 🤖 Project Four
-> A brief description of what this project does and the problem it solves.
+#### 🤖 项目四
+> 这个项目的简要介绍，以及它解决的问题。
 
 `Python` `TensorFlow` `OpenCV` `Flask`
 
-[![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/li1023qwq)
+[![仓库](https://img.shields.io/badge/仓库-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/li1023qwq)
 
     </td>
   </tr>
@@ -241,16 +241,16 @@ I'm a passionate developer who loves building things with code. I enjoy tackling
 
 <div align="center">
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" width="28" /> Recent Blog Posts
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" width="28" /> 最新博客文章
 
 <!-- BLOG-POST-LIST:START -->
-<!-- This will be auto-populated if you set up GitHub Actions with blog-post workflow -->
-| 📅 Date | 📝 Title |
+<!-- 如果你配置了 GitHub Actions 博客工作流，这里会自动填充 -->
+| 📅 日期 | 📝 标题 |
 |---------|----------|
-| 2025-05-01 | [How I Built a Scalable API with Go and gRPC](https://your-blog.com) |
-| 2025-04-15 | [Docker Best Practices for Production](https://your-blog.com) |
-| 2025-03-28 | [Understanding Rust's Ownership Model](https://your-blog.com) |
-| 2025-03-10 | [My Journey into Open Source](https://your-blog.com) |
+| 2025-05-01 | [我是如何用 Go 和 gRPC 构建可扩展 API 的](https://your-blog.com) |
+| 2025-04-15 | [Docker 生产环境最佳实践](https://your-blog.com) |
+| 2025-03-28 | [理解 Rust 的所有权模型](https://your-blog.com) |
+| 2025-03-10 | [我的开源之旅](https://your-blog.com) |
 <!-- BLOG-POST-LIST:END -->
 
 </div>
@@ -263,7 +263,7 @@ I'm a passionate developer who loves building things with code. I enjoy tackling
 
 <div align="center">
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="28" /> Connect With Me
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="28" /> 联系我
 
 <br/>
 
@@ -271,7 +271,7 @@ I'm a passionate developer who loves building things with code. I enjoy tackling
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </a>&nbsp;
 <a href="mailto:li1023qwq@users.noreply.github.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/邮箱-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>&nbsp;
 <a href="https://twitter.com/">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
@@ -283,7 +283,7 @@ I'm a passionate developer who loves building things with code. I enjoy tackling
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>&nbsp;
 <a href="https://your-blog.com">
-  <img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white" />
+  <img src="https://img.shields.io/badge/博客-FF5722?style=for-the-badge&logo=blogger&logoColor=white" />
 </a>&nbsp;
 <a href="https://t.me/">
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
@@ -299,11 +299,11 @@ I'm a passionate developer who loves building things with code. I enjoy tackling
 
 <div align="center">
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Heart%20Hands.png" width="28" /> Support
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Heart%20Hands.png" width="28" /> 支持
 
 <br/>
 
-If you find my work helpful, consider buying me a coffee ☕
+如果我的项目对你有帮助，可以请我喝杯咖啡 ☕
 
 <a href="https://www.buymeacoffee.com/">
   <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
@@ -324,7 +324,7 @@ If you find my work helpful, consider buying me a coffee ☕
 <!-- ═══════════════════════════════════════════════ -->
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=li1023qwq&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=li1023qwq&color=blueviolet&style=for-the-badge&label=个人主页访问量" alt="profile views"/>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,5,8,11&height=100&section=footer" width="100%"/>
 </div>
