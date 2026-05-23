@@ -188,53 +188,21 @@
 
 ## GitHub 活动
 
-### 📊 核心数据统计
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=li1023qwq&show_icons=true&theme=tokyonight&bg_color=0d1117&hide_border=true&title_color=58a6ff&icon_color=8b949e&text_color=c9d1d9&ring_color=58a6ff&include_all_commits=true&count_private=true" width="420" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=li1023qwq&layout=compact&theme=tokyonight&bg_color=0d1117&hide_border=true&title_color=58a6ff&text_color=c9d1d9&langs_count=8" width="350" />
+  <img src="https://github-readme-stats.vercel.app/api?username=li1023qwq&show_icons=true&theme=dracula&bg_color=0d1117&hide_border=true&title_color=ff6b9d&icon_color=c0c0c0&text_color=c9d1d9&ring_color=ff6b9d&include_all_commits=true" width="420" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=li1023qwq&layout=compact&theme=dracula&bg_color=0d1117&hide_border=true&title_color=ff6b9d&text_color=c9d1d9&langs_count=6" width="350" />
 </p>
 
-### 🔥 连续贡献记录
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=li1023qwq&theme=tokyonight&background=0d1117&hide_border=true&ring=58a6ff&fire=58a6ff&sideLabels=c9d1d9&currStreakLabel=58a6ff" width="75%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=li1023qwq&theme=dracula&background=0d1117&hide_border=true&ring=ff6b9d&fire=ff6b9d&sideLabels=c9d1d9&currStreakLabel=ff6b9d" width="75%" />
 </p>
 
-### 🏆 成就徽章
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=li1023qwq&theme=tokyonight&no-frame=true&column=7&margin-w=15" width="95%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=li1023qwq&theme=dracula&no-frame=true&column=6&margin-w=15" width="95%" />
 </p>
 
-### 📈 活动趋势图
-
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=li1023qwq&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff&hide_border=true" width="95%" />
-</p>
-
-### 📁 仓库统计
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=li1023qwq&repo=li1023qwq&theme=tokyonight&bg_color=0d1117&hide_border=true&title_color=58a6ff&text_color=c9d1d9" width="400" />
-</p>
-
-### 💬 最近提交
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=li1023qwq&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff&hide_border=true&custom_title=Recent%20Activity" width="95%" />
-</p>
-
-### 🌟 GitHub 星级
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=li1023qwq&show_icons=true&theme=tokyonight&bg_color=0d1117&hide_border=true&title_color=58a6ff&icon_color=8b949e&text_color=c9d1d9&ring_color=58a6ff" width="420" />
-</p>
-
-### 🤝 贡献地图
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=li1023qwq&show_icons=true&theme=merko&bg_color=0d1117&hide_border=true&title_color=58a6ff&icon_color=8b949e&text_color=c9d1d9&ring_color=58a6ff" width="420" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=li1023qwq&bg_color=0d1117&color=ff6b9d&line=ff6b9d&point=ffffff&area=true&area_color=ff6b9d&hide_border=true" width="95%" />
 </p>
 
 <br/>
