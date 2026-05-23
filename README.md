@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,5,8,11&height=180&section=header&text=li1023qwq&fontSize=58&fontColor=f0f0f0&desc=全栈开发工程师%20%7C%20开源爱好者&descSize=18&descAlignY=40&animation=twinkling&fontAlignY=30" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,5,8,11&height=180&section=header&text=li1023qwq&fontSize=58&fontColor=f0f0f0&desc=Full%20Stack%20Developer%20%7C%20Open%20Source%20Enthusiast&descSize=18&descAlignY=40&animation=twinkling&fontAlignY=30" width="100%"/>
 </div>
 
 <br/>
@@ -7,9 +7,7 @@
 # 👋 Hello，这里是 li1023qwq
 
 <div align="center">
-  <a href="https://github.com/li1023qwq">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=嘿%2C+我是+li1023qwq+%F0%9F%91%8B;欢迎来到我的GitHub!" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1500&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=60&lines=Hi%2C+I%27m+li1023qwq;Welcome+to+my+GitHub!" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -100,95 +98,57 @@
 
 ## GitHub 活动
 
-<div align="center">
-
-### 📊 数据统计
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=li1023qwq&show_icons=true&theme=tokyonight&bg_color=0d1117&hide_border=true&title_color=58a6ff&icon_color=8b949e&text_color=c9d1d9&ring_color=58a6ff&include_all_commits=true&count_private=true" width="420" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=li1023qwq&layout=compact&theme=tokyonight&bg_color=0d1117&hide_border=true&title_color=58a6ff&text_color=c9d1d9&langs_count=8" width="350" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=li1023qwq&show_icons=true&theme=tokyonight&bg_color=0d1117&hide_border=true&title_color=58a6ff&icon_color=8b949e&text_color=c9d1d9&ring_color=58a6ff&include_all_commits=true&count_private=true" width="420" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=li1023qwq&layout=compact&theme=tokyonight&bg_color=0d1117&hide_border=true&title_color=58a6ff&text_color=c9d1d9&langs_count=8" width="350" />
+</p>
 
 <br/>
 
-### 🔥 连续贡献
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=li1023qwq&theme=tokyonight&background=0d1117&hide_border=true&ring=58a6ff&fire=58a6ff&sideLabels=c9d1d9&currStreakLabel=58a6ff" width="75%" />
-
-<br/>
-
-### 🏆 成就徽章
-
-<img src="https://github-profile-trophy.vercel.app/?username=li1023qwq&theme=tokyonight&no-frame=true&column=7&margin-w=15" width="95%" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=li1023qwq&theme=tokyonight&background=0d1117&hide_border=true&ring=58a6ff&fire=58a6ff&sideLabels=c9d1d9&currStreakLabel=58a6ff" width="75%" />
+</p>
 
 <br/>
 
-### 🐍 贡献图
-
-![Snake animation](https://raw.githubusercontent.com/li1023qwq/li1023qwq/output/github-contribution-grid-snake-dark.svg)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=li1023qwq&theme=tokyonight&no-frame=true&column=7&margin-w=15" width="95%" />
+</p>
 
 <br/>
 
-### 📈 活动图
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=li1023qwq&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff&hide_border=true" width="95%" />
-
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=li1023qwq&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff&hide_border=true" width="95%" />
+</p>
 
 <br/>
 
 ## 联系我
 
-<div align="center">
-
-<a href="https://github.com/li1023qwq">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-</a>&nbsp;
-<a href="mailto:li1023qwq@users.noreply.github.com">
-  <img src="https://img.shields.io/badge/邮箱-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>&nbsp;
-<a href="https://twitter.com/">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-</a>&nbsp;
-<a href="https://discord.gg/">
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-</a>&nbsp;
-<a href="https://linkedin.com/in/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-</div>
+<p align="center">
+  <a href="https://github.com/li1023qwq"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:li1023qwq@users.noreply.github.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
 <br/>
 
 ## 支持
 
-<div align="center">
-
-如果我的项目对你有帮助，可以请我喝杯咖啡 ☕
-
-<a href="https://www.buymeacoffee.com/">
-  <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
-</a>&nbsp;
-<a href="https://ko-fi.com/">
-  <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" />
-</a>
-
-</div>
+<p align="center">
+ 如果我的项目对你有帮助，可以请我喝杯咖啡 ☕<br/><br/>
+  <a href="https://www.buymeacoffee.com/"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>
+  <a href="https://ko-fi.com/"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" /></a>
+</p>
 
 <br/>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=li1023qwq&color=blueviolet&style=for-the-badge&label=个人主页访问量" alt="profile views"/>
-  <br/><br/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,5,8,11&height=100&section=footer" width="100%"/>
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=li1023qwq&color=blueviolet&style=flat-square&label=Profile%20Views" alt="Profile Views" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,5,8,11&height=80&section=footer" width="100%"/>
+</p>
 
 ---
 
