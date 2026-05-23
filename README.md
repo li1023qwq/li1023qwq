@@ -143,7 +143,7 @@
 <br/>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=li1023qwq&color=blueviolet&style=flat-square&label=Profile%20Views" alt="Profile Views" />
+  <img src="https://count.getloli.com/get/@li1023qwq?theme=rule34" alt="Profile Views" />
 </p>
 
 <p align="center">
